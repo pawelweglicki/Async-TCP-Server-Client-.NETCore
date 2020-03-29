@@ -1,0 +1,13 @@
+C:\Users\Machine\Desktop\repos\PC_Polo_Game\Server Thread-Delegate\bin\Release\netcoreapp3.1\Server Thread-Delegate.exe
+C:\Users\Machine\Desktop\repos\PC_Polo_Game\Server Thread-Delegate\bin\Release\netcoreapp3.1\Server Thread-Delegate.deps.json
+C:\Users\Machine\Desktop\repos\PC_Polo_Game\Server Thread-Delegate\bin\Release\netcoreapp3.1\Server Thread-Delegate.runtimeconfig.json
+C:\Users\Machine\Desktop\repos\PC_Polo_Game\Server Thread-Delegate\bin\Release\netcoreapp3.1\Server Thread-Delegate.runtimeconfig.dev.json
+C:\Users\Machine\Desktop\repos\PC_Polo_Game\Server Thread-Delegate\bin\Release\netcoreapp3.1\Server Thread-Delegate.dll
+C:\Users\Machine\Desktop\repos\PC_Polo_Game\Server Thread-Delegate\bin\Release\netcoreapp3.1\Server Thread-Delegate.pdb
+C:\Users\Machine\Desktop\repos\PC_Polo_Game\Server Thread-Delegate\obj\Release\netcoreapp3.1\Server Thread-Delegate.csprojAssemblyReference.cache
+C:\Users\Machine\Desktop\repos\PC_Polo_Game\Server Thread-Delegate\obj\Release\netcoreapp3.1\Server Thread-Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Machine\Desktop\repos\PC_Polo_Game\Server Thread-Delegate\obj\Release\netcoreapp3.1\Server Thread-Delegate.AssemblyInfoInputs.cache
+C:\Users\Machine\Desktop\repos\PC_Polo_Game\Server Thread-Delegate\obj\Release\netcoreapp3.1\Server Thread-Delegate.AssemblyInfo.cs
+C:\Users\Machine\Desktop\repos\PC_Polo_Game\Server Thread-Delegate\obj\Release\netcoreapp3.1\Server Thread-Delegate.dll
+C:\Users\Machine\Desktop\repos\PC_Polo_Game\Server Thread-Delegate\obj\Release\netcoreapp3.1\Server Thread-Delegate.pdb
+C:\Users\Machine\Desktop\repos\PC_Polo_Game\Server Thread-Delegate\obj\Release\netcoreapp3.1\Server Thread-Delegate.genruntimeconfig.cache

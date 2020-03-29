@@ -1,0 +1,1 @@
+To start apps from batch file, replace paths to builded .exe files.

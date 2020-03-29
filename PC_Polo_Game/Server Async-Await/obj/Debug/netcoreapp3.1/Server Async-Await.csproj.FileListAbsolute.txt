@@ -1,0 +1,26 @@
+C:\Users\Machine\Desktop\repos\PC Polo Game\Server Async-Await\obj\Debug\netcoreapp3.1\Server Async-Await.csprojAssemblyReference.cache
+C:\Users\Machine\Desktop\repos\PC Polo Game\Server Async-Await\obj\Debug\netcoreapp3.1\Server Async-Await.csproj.CoreCompileInputs.cache
+C:\Users\Machine\Desktop\repos\PC Polo Game\Server Async-Await\obj\Debug\netcoreapp3.1\Server Async-Await.AssemblyInfoInputs.cache
+C:\Users\Machine\Desktop\repos\PC Polo Game\Server Async-Await\obj\Debug\netcoreapp3.1\Server Async-Await.AssemblyInfo.cs
+C:\Users\Machine\Desktop\repos\PC Polo Game\Server Async-Await\bin\Debug\netcoreapp3.1\Server Async-Await.exe
+C:\Users\Machine\Desktop\repos\PC Polo Game\Server Async-Await\bin\Debug\netcoreapp3.1\Server Async-Await.deps.json
+C:\Users\Machine\Desktop\repos\PC Polo Game\Server Async-Await\bin\Debug\netcoreapp3.1\Server Async-Await.runtimeconfig.json
+C:\Users\Machine\Desktop\repos\PC Polo Game\Server Async-Await\bin\Debug\netcoreapp3.1\Server Async-Await.runtimeconfig.dev.json
+C:\Users\Machine\Desktop\repos\PC Polo Game\Server Async-Await\bin\Debug\netcoreapp3.1\Server Async-Await.dll
+C:\Users\Machine\Desktop\repos\PC Polo Game\Server Async-Await\bin\Debug\netcoreapp3.1\Server Async-Await.pdb
+C:\Users\Machine\Desktop\repos\PC Polo Game\Server Async-Await\obj\Debug\netcoreapp3.1\Server Async-Await.dll
+C:\Users\Machine\Desktop\repos\PC Polo Game\Server Async-Await\obj\Debug\netcoreapp3.1\Server Async-Await.pdb
+C:\Users\Machine\Desktop\repos\PC Polo Game\Server Async-Await\obj\Debug\netcoreapp3.1\Server Async-Await.genruntimeconfig.cache
+C:\Users\Machine\Desktop\repos\PC_Polo_Game\Server Async-Await\bin\Debug\netcoreapp3.1\Server Async-Await.exe
+C:\Users\Machine\Desktop\repos\PC_Polo_Game\Server Async-Await\bin\Debug\netcoreapp3.1\Server Async-Await.deps.json
+C:\Users\Machine\Desktop\repos\PC_Polo_Game\Server Async-Await\bin\Debug\netcoreapp3.1\Server Async-Await.runtimeconfig.json
+C:\Users\Machine\Desktop\repos\PC_Polo_Game\Server Async-Await\bin\Debug\netcoreapp3.1\Server Async-Await.runtimeconfig.dev.json
+C:\Users\Machine\Desktop\repos\PC_Polo_Game\Server Async-Await\bin\Debug\netcoreapp3.1\Server Async-Await.dll
+C:\Users\Machine\Desktop\repos\PC_Polo_Game\Server Async-Await\bin\Debug\netcoreapp3.1\Server Async-Await.pdb
+C:\Users\Machine\Desktop\repos\PC_Polo_Game\Server Async-Await\obj\Debug\netcoreapp3.1\Server Async-Await.csprojAssemblyReference.cache
+C:\Users\Machine\Desktop\repos\PC_Polo_Game\Server Async-Await\obj\Debug\netcoreapp3.1\Server Async-Await.csproj.CoreCompileInputs.cache
+C:\Users\Machine\Desktop\repos\PC_Polo_Game\Server Async-Await\obj\Debug\netcoreapp3.1\Server Async-Await.AssemblyInfoInputs.cache
+C:\Users\Machine\Desktop\repos\PC_Polo_Game\Server Async-Await\obj\Debug\netcoreapp3.1\Server Async-Await.AssemblyInfo.cs
+C:\Users\Machine\Desktop\repos\PC_Polo_Game\Server Async-Await\obj\Debug\netcoreapp3.1\Server Async-Await.dll
+C:\Users\Machine\Desktop\repos\PC_Polo_Game\Server Async-Await\obj\Debug\netcoreapp3.1\Server Async-Await.pdb
+C:\Users\Machine\Desktop\repos\PC_Polo_Game\Server Async-Await\obj\Debug\netcoreapp3.1\Server Async-Await.genruntimeconfig.cache
